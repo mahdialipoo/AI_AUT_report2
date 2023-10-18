@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  18 OCT 2023 13:28
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  18 OCT 2023 13:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1146,6 +1146,11 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 8.39998pt on input line 12.
 )
+Overfull \hbox (1.81639pt too wide) in paragraph at lines 27--48
+[]\TU/BNazanin(0)/m/n/12 توسعه سیستم‌های اتومات مانند هواپیماهای بدون سرنشین، و
+سایل نقلیه هدایت‌شونده خودکار و ربات‌های[]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1163,14 +1168,14 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 
 ] (./AUTthesis.aux (./chapter1.aux))
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 4EDD67E8363B32E21872F9158684CF47;556.
+(rerunfilecheck)             Checksum: 2AE0CC46D385DB0FEE5494E5B022FE30;868.
  ) 
 Here is how much of TeX's memory you used:
- 17986 strings out of 476683
- 361013 string characters out of 5807575
- 1848012 words of memory out of 5000000
- 37825 multiletter control sequences out of 15000+600000
- 520100 words of font info for 118 fonts, out of 8000000 for 9000
+ 17993 strings out of 476683
+ 361250 string characters out of 5807575
+ 1853012 words of memory out of 5000000
+ 37830 multiletter control sequences out of 15000+600000
+ 520116 words of font info for 120 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,12n,94p,2406b,393s stack positions out of 10000i,1000n,20000p,200000b,200000s
 

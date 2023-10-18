@@ -5,5 +5,6 @@
 \setcounter {tocdepth}{\SavedTocDepth }
 \contentsline {chapter}{\numberline {1}مقدمه ای بر الگوریتم \lr {A*}}{2}{chapter.1}%
 \contentsline {section}{\numberline {1-1}تاریخچه}{3}{section.1.1}%
+\contentsline {section}{\numberline {1-2}حمل نقل و مسیریابی با الگوریتم \lr {A*}}{3}{section.1.2}%
 \contentsline {chapter}{مراجع}{4}{appendix*.3}%
 \contentsfinish 
