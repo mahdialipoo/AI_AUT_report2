@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  6 OCT 2023 21:09
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  18 OCT 2023 13:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -962,8 +962,7 @@ Package amsthm Warning: Unknown theoremstyle `theorem' on input line 116.
 LaTeX Warning: Unused global option(s):
     [oneside,12pt].
 
-(./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
-(./chapter4.aux))
+(./AUTthesis.aux (./chapter1.aux))
 \openout1 = `AUTthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -977,7 +976,8 @@ LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
 1.
- (c:/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(c:/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 21.
@@ -1139,23 +1139,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-File: ./img/fig quad1.png Graphic file (type bmp)
-<./img/fig quad1.png>
-File: ./img/quad2.png Graphic file (type bmp)
-<./img/quad2.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 36.
+(Font)              scaled to size 9.59998pt on input line 12.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 36.
+(Font)              scaled to size 11.99997pt on input line 12.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 36.
+(Font)              scaled to size 8.39998pt on input line 12.
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1164,148 +1154,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[4])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[5]
-\openout2 = `chapter2.aux'.
-
- (./chapter2.tex
-فصل 2.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[6
-
-
-
-
-]
-File: ./img/trade.jpg Graphic file (type bmp)
-<./img/trade.jpg>
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[7])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[8]
-\openout2 = `chapter3.aux'.
-
- (./chapter3.tex
-فصل 3.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[9
-
-
-
-
-]
-File: ./img/reccomendation_sys.png Graphic file (type bmp)
-<./img/reccomendation_sys.png>
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[10])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[11]
-\openout2 = `chapter4.aux'.
-
- (./chapter4.tex
-فصل 4.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[12
-
-
-
-
-])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[13] (./AUTthesis.bbl
+[3] (./AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
-) [14
+) [4
 
 
 
-] (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux)
-(./chapter3.aux) (./chapter4.aux))
+] (./AUTthesis.aux (./chapter1.aux))
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 6323869E273D1136D1D57BB3ED4EF890;3842.
+(rerunfilecheck)             Checksum: 4EDD67E8363B32E21872F9158684CF47;556.
  ) 
 Here is how much of TeX's memory you used:
- 18192 strings out of 476683
- 365445 string characters out of 5807575
- 1857012 words of memory out of 5000000
- 38006 multiletter control sequences out of 15000+600000
+ 17986 strings out of 476683
+ 361013 string characters out of 5807575
+ 1848012 words of memory out of 5000000
+ 37825 multiletter control sequences out of 15000+600000
  520100 words of font info for 118 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,11n,94p,2406b,393s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 92i,12n,94p,2406b,393s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AUTthesis.pdf (19 pages).
+Output written on AUTthesis.pdf (9 pages).
