@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  18 OCT 2023 13:44
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  18 OCT 2023 13:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1035,21 +1035,21 @@ Package hyperref Info: Link coloring ON on input line 21.
 File: ./img/fa-logo.png Graphic file (type bmp)
 <./img/fa-logo.png>
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 35.
+(Font)              scaled to size 14.39996pt on input line 37.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 19.19995pt on input line 35.
+(Font)              scaled to size 19.19995pt on input line 37.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 16.79996pt on input line 35.
+(Font)              scaled to size 16.79996pt on input line 37.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 19.19995pt on input line 35.
+(Font)              scaled to size 19.19995pt on input line 37.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 23.99994pt on input line 35.
+(Font)              scaled to size 23.99994pt on input line 37.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 23.99994pt on input line 35.
+(Font)              scaled to size 23.99994pt on input line 37.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 21.59995pt on input line 35.
+(Font)              scaled to size 21.59995pt on input line 37.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 21.59995pt on input line 35.
+(Font)              scaled to size 21.59995pt on input line 37.
  [1
 
 ]
@@ -1171,11 +1171,11 @@ Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
 (rerunfilecheck)             Checksum: 2AE0CC46D385DB0FEE5494E5B022FE30;868.
  ) 
 Here is how much of TeX's memory you used:
- 17993 strings out of 476683
- 361250 string characters out of 5807575
+ 17995 strings out of 476683
+ 361343 string characters out of 5807575
  1853012 words of memory out of 5000000
- 37830 multiletter control sequences out of 15000+600000
- 520116 words of font info for 120 fonts, out of 8000000 for 9000
+ 37831 multiletter control sequences out of 15000+600000
+ 520124 words of font info for 121 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,12n,94p,2406b,393s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
