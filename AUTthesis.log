@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  18 OCT 2023 13:51
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  18 OCT 2023 13:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1145,8 +1145,8 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 11.99997pt on input line 12.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 8.39998pt on input line 12.
-)
-Overfull \hbox (1.81639pt too wide) in paragraph at lines 27--48
+
+Overfull \hbox (1.81639pt too wide) in paragraph at lines 27--33
 []\TU/BNazanin(0)/m/n/12 توسعه سیستم‌های اتومات مانند هواپیماهای بدون سرنشین، و
 سایل نقلیه هدایت‌شونده خودکار و ربات‌های[]
  []
@@ -1159,24 +1159,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3] (./AUTthesis.bbl
+[3])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4] (./AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
-) [4
+) [5
 
 
 
 ] (./AUTthesis.aux (./chapter1.aux))
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 2AE0CC46D385DB0FEE5494E5B022FE30;868.
+(rerunfilecheck)             Checksum: C8C724B133D2A7FF7FF404E54C5509EF;1002.
  ) 
 Here is how much of TeX's memory you used:
- 17995 strings out of 476683
- 361343 string characters out of 5807575
- 1853012 words of memory out of 5000000
- 37831 multiletter control sequences out of 15000+600000
+ 17996 strings out of 476683
+ 361366 string characters out of 5807575
+ 1855012 words of memory out of 5000000
+ 37832 multiletter control sequences out of 15000+600000
  520124 words of font info for 121 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,12n,94p,2406b,393s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 92i,12n,94p,2406b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AUTthesis.pdf (9 pages).
+Output written on AUTthesis.pdf (10 pages).
