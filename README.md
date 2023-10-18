@@ -1,4 +1,4 @@
-# AI_AUT_report1
+# AI_AUT_report2
 the  home work of AI 
 The project is the first of Artificial intelligence of Amirkabir unversity series HWs.
 author : Mahdi Abbasalipour
