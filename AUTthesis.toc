@@ -8,11 +8,9 @@
 \contentsline {section}{\numberline {1-2}تاریخچه}{3}{section.1.2}%
 \contentsline {section}{\numberline {1-3}شیوه ی کار}{3}{section.1.3}%
 \contentsline {section}{\numberline {1-4}ورژن ها}{4}{section.1.4}%
-\contentsline {subsection}{\numberline {1-4-1}هندسی}{4}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1-4-2}بهبودیافته}{4}{subsection.1.4.2}%
-\contentsline {subsection}{\numberline {1-4-3}همیشه اصلاح شونده}{5}{subsection.1.4.3}%
-\contentsline {subsection}{\numberline {1-4-4}پویا ساده}{6}{subsection.1.4.4}%
-\contentsline {subsection}{\numberline {1-4-5}همیشه پویا}{7}{subsection.1.4.5}%
-\contentsline {section}{\numberline {1-5}جمع بندی}{8}{section.1.5}%
-\contentsline {chapter}{مراجع}{9}{appendix*.3}%
+\contentsline {subsection}{\numberline {1-4-1}هندسی}{5}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1-4-2}بهبودیافته}{7}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1-4-3}پویا ساده}{8}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1-4-4}همیشه پویا}{9}{subsection.1.4.4}%
+\contentsline {chapter}{مراجع}{10}{appendix*.3}%
 \contentsfinish 
