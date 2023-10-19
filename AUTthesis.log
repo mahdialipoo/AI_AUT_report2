@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  18 OCT 2023 13:58
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  19 OCT 2023 11:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1139,18 +1139,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 12.
-LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 12.
-LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 12.
+Overfull \hbox (3.8633pt too wide) in paragraph at lines 3--3
+[][]\TU/BNazanin(0)/b/n/17.28 اهمیت مسیریابی بهینه در سیستم های حمل و نقل خودرا
+ن []
+ []
 
-Overfull \hbox (1.81639pt too wide) in paragraph at lines 27--33
+
+Overfull \hbox (1.81639pt too wide) in paragraph at lines 4--10
 []\TU/BNazanin(0)/m/n/12 توسعه سیستم‌های اتومات مانند هواپیماهای بدون سرنشین، و
 سایل نقلیه هدایت‌شونده خودکار و ربات‌های[]
  []
 
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 9.59998pt on input line 20.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 11.99997pt on input line 20.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 8.39998pt on input line 20.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1159,7 +1164,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3])
+[3]
+Missing character: There is no A (U+0041) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no A (U+0041) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no A (U+0041) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no A (U+0041) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no A (U+0041) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1168,24 +1184,39 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4] (./AUTthesis.bbl
+[4]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5] (./AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
-) [5
+) [6
 
 
 
 ] (./AUTthesis.aux (./chapter1.aux))
-Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: C8C724B133D2A7FF7FF404E54C5509EF;1002.
+
+Package rerunfilecheck Warning: File `AUTthesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `AUTthesis.out':
+(rerunfilecheck)             Before: 1BBAE9F5A4C845BB5E2B1EBD6D098B2A;1144
+(rerunfilecheck)             After:  2543853048896DABF805C2C79D388D1E;2041.
  ) 
 Here is how much of TeX's memory you used:
- 17996 strings out of 476683
- 361366 string characters out of 5807575
+ 17994 strings out of 476683
+ 361270 string characters out of 5807575
  1855012 words of memory out of 5000000
- 37832 multiletter control sequences out of 15000+600000
- 520124 words of font info for 121 fonts, out of 8000000 for 9000
+ 37831 multiletter control sequences out of 15000+600000
+ 520116 words of font info for 120 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,12n,94p,2406b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AUTthesis.pdf (10 pages).
+Output written on AUTthesis.pdf (11 pages).
