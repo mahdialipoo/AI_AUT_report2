@@ -1,3 +1,8 @@
 \hspace *{.5cm}شکل\hfill صفحه \par 
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {1-1}{\ignorespaces بهینه سازی مسیر با استفاده از فیلتر \lr {P(x,y)}}}{5}{figure.1.1}%
+\contentsline {figure}{\numberline {1-2}{\ignorespaces بهینه سازی مسیر با استفاده از فیلتر \lr {W(x,y)}}}{5}{figure.1.2}%
+\contentsline {figure}{\numberline {1-3}{\ignorespaces مسیر یابی توسط الگوریتم کلاسیک \lr {A*}}}{6}{figure.1.3}%
+\contentsline {figure}{\numberline {1-4}{\ignorespaces مسیر یابی توسط الگوریتم روش هندسی \lr {A*}}}{7}{figure.1.4}%
+\contentsline {figure}{\numberline {1-5}{\ignorespaces شیوه کار \lr {A*}بهبود یافته}}{8}{figure.1.5}%
 \contentsfinish 
