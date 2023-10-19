@@ -14,5 +14,5 @@
 \contentsline {subsection}{\numberline {1-4-4}پویا ساده}{6}{subsection.1.4.4}%
 \contentsline {subsection}{\numberline {1-4-5}همیشه پویا}{7}{subsection.1.4.5}%
 \contentsline {section}{\numberline {1-5}جمع بندی}{8}{section.1.5}%
-\contentsline {chapter}{مراجع}{10}{appendix*.3}%
+\contentsline {chapter}{مراجع}{9}{appendix*.3}%
 \contentsfinish 

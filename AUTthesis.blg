@@ -4,22 +4,26 @@ The top-level auxiliary file: AUTthesis.aux
 A level-1 auxiliary file: chapter1.aux
 The style file: plain-fa.bst
 Database file #1: references.bib
+I was expecting a `,' or a `}'---line 7 of file references.bib
+ :   title =        {A* algorithm in a simple way}
+ :                                                '
+I'm skipping whatever remains of this entry
 -- plain-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
 You've used 2 entries,
             2546 wiz_defined-function locations,
-            636 strings with 5598 characters,
-and the built_in function-call counts, 656 in all, are:
-= -- 59
+            635 strings with 5523 characters,
+and the built_in function-call counts, 641 in all, are:
+= -- 55
 > -- 14
 < -- 1
 + -- 7
 - -- 4
-* -- 36
-:= -- 96
-add.period$ -- 7
+* -- 35
+:= -- 92
+add.period$ -- 6
 call.type$ -- 2
 change.case$ -- 8
 chr.to.int$ -- 0
@@ -27,17 +31,17 @@ cite$ -- 2
 duplicate$ -- 26
 empty$ -- 58
 format.name$ -- 4
-if$ -- 157
+if$ -- 153
 int.to.chr$ -- 0
 int.to.str$ -- 2
 missing$ -- 13
-newline$ -- 24
+newline$ -- 23
 num.names$ -- 4
 pop$ -- 15
 preamble$ -- 1
 purify$ -- 6
 quote$ -- 0
-skip$ -- 19
+skip$ -- 22
 stack$ -- 0
 substring$ -- 27
 swap$ -- 8
@@ -48,4 +52,5 @@ type$ -- 8
 warning$ -- 0
 while$ -- 7
 width$ -- 3
-write$ -- 33
+write$ -- 30
+(There was 1 error message)

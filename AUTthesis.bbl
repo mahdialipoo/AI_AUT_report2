@@ -7,8 +7,7 @@
 \resetlatinfont
 \bibitem{ELhamalgoritma_star}
 Hesaraki, Elham.
-\newblock الگوریتم *a — به زبان ساده.
-\newblock \href{https://blog.faradars.org/a_star_search_algorithm/}, 2023.
+\newblock A* algorithm in a simple way.
 
 \end{LTRbibitems}
 
