@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  24 OCT 2023 11:21
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  24 OCT 2023 11:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1215,17 +1215,17 @@ Overfull \hbox (3.8633pt too wide) in paragraph at lines 3--3
  []
 
 
-Overfull \hbox (1.81639pt too wide) in paragraph at lines 4--10
+Overfull \hbox (1.81639pt too wide) in paragraph at lines 4--7
 []\TU/BNazanin(0)/m/n/12 توسعه سیستم‌های اتومات مانند هواپیماهای بدون سرنشین، و
 سایل نقلیه هدایت‌شونده خودکار و ربات‌های[]
  []
 
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 20.
+(Font)              scaled to size 9.59998pt on input line 23.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 20.
+(Font)              scaled to size 11.99997pt on input line 23.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 20.
+(Font)              scaled to size 8.39998pt on input line 23.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1437,14 +1437,8 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `AUTthesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `AUTthesis.out':
-(rerunfilecheck)             Before: DC41E4F6E82DB135FF318A6C2215CD99;2101
-(rerunfilecheck)             After:  2964054CE192908618843CCD90022FF3;2090.
+Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
+(rerunfilecheck)             Checksum: 2964054CE192908618843CCD90022FF3;2090.
  ) 
 Here is how much of TeX's memory you used:
  19398 strings out of 476683
