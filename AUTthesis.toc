@@ -3,15 +3,17 @@
 \contentsline {chapter}{فهرست تصاویر}{ج}{section*.2}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
-\contentsline {chapter}{\numberline {1}مقدمه ای بر الگوریتم \lr {A*}}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {1}مقدمه}{2}{chapter.1}%
 \contentsline {section}{\numberline {1-1}اهمیت مسیریابی بهینه در سیستم های حمل و نقل خودران}{3}{section.1.1}%
 \contentsline {section}{\numberline {1-2}تاریخچه}{3}{section.1.2}%
-\contentsline {section}{\numberline {1-3}شیوه ی کار}{3}{section.1.3}%
-\contentsline {section}{\numberline {1-4}ورژن ها}{5}{section.1.4}%
-\contentsline {subsection}{\numberline {1-4-1}هندسی}{6}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1-4-2}بهبودیافته}{8}{subsection.1.4.2}%
-\contentsline {subsection}{\numberline {1-4-3}پویا ساده}{9}{subsection.1.4.3}%
-\contentsline {subsection}{\numberline {1-4-4}همیشه پویا}{10}{subsection.1.4.4}%
-\contentsline {section}{\numberline {1-5}جمع بندی}{11}{section.1.5}%
-\contentsline {chapter}{مراجع}{12}{appendix*.3}%
+\contentsline {chapter}{\numberline {2}الگوریتم \lr {A*}}{4}{chapter.2}%
+\contentsline {section}{\numberline {2-1}شیوه ی کار}{5}{section.2.1}%
+\contentsline {chapter}{\numberline {3}دگرگونی های الگوریتم \lr {A*}}{7}{chapter.3}%
+\contentsline {section}{\numberline {3-1}ورژن ها}{8}{section.3.1}%
+\contentsline {subsection}{\numberline {3-1-1}هندسی}{9}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3-1-2}بهبودیافته}{11}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3-1-3}پویا ساده}{12}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3-1-4}همیشه پویا}{13}{subsection.3.1.4}%
+\contentsline {chapter}{\numberline {4}جمع بندی}{14}{chapter.4}%
+\contentsline {chapter}{مراجع}{16}{appendix*.3}%
 \contentsfinish 

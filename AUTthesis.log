@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  20 OCT 2023 00:04
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  24 OCT 2023 11:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1235,9 +1235,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [3]
-File: ./img/code.jpg Graphic file (type bmp)
-<./img/code.jpg>
-)
+فصل 2.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1246,7 +1244,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4]
+[4
+
+]
+File: ./img/code.jpg Graphic file (type bmp)
+<./img/code.jpg>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1256,6 +1262,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6]
+فصل 3.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7
+
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8]
 \openout2 = `geo.aux'.
 
  (./geo.tex
@@ -1283,7 +1319,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6
+[9
 
 
 
@@ -1296,7 +1332,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7]
+[10]
 \openout2 = `improved.aux'.
 
  (./improved.tex
@@ -1311,7 +1347,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8
+[11
 
 
 
@@ -1336,7 +1372,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9
+[12
 
 
 
@@ -1355,7 +1391,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10
+[13
 
 
 
@@ -1363,6 +1399,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `conclusion.aux'.
 
  (./conclusion.tex
+فصل 4.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14
+
+
+
+
+]
 File: ./img/conclusion.jpg Graphic file (type bmp)
 <./img/conclusion.jpg>
 )
@@ -1374,14 +1425,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11
-
-
-
-] (./AUTthesis.bbl
+[15] (./AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
-) [12
+) [16
 
 
 
@@ -1390,16 +1437,22 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: B2F934106CBB9114B1A5461D30050BE3;1891.
+
+Package rerunfilecheck Warning: File `AUTthesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `AUTthesis.out':
+(rerunfilecheck)             Before: DC41E4F6E82DB135FF318A6C2215CD99;2101
+(rerunfilecheck)             After:  2964054CE192908618843CCD90022FF3;2090.
  ) 
 Here is how much of TeX's memory you used:
- 19396 strings out of 476683
- 387075 string characters out of 5807575
- 1856012 words of memory out of 5000000
- 39167 multiletter control sequences out of 15000+600000
+ 19398 strings out of 476683
+ 387097 string characters out of 5807575
+ 1855012 words of memory out of 5000000
+ 39169 multiletter control sequences out of 15000+600000
  520116 words of font info for 120 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,12n,94p,2406b,453s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 92i,12n,94p,2406b,394s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AUTthesis.pdf (17 pages).
+Output written on AUTthesis.pdf (21 pages).
