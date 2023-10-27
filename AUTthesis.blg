@@ -2,55 +2,65 @@ This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: AUTthesis.aux
 A level-1 auxiliary file: chapter1.aux
+A level-1 auxiliary file: geo.aux
+A level-1 auxiliary file: improved.aux
+A level-1 auxiliary file: repair.aux
+A level-1 auxiliary file: dlite.aux
+A level-1 auxiliary file: ada.aux
+A level-1 auxiliary file: conclusion.aux
 The style file: plain-fa.bst
 Database file #1: references.bib
 I was expecting a `,' or a `}'---line 7 of file references.bib
  :   title =        {A* algorithm in a simple way}
  :                                                '
 I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 39 of file references.bib
+ :   title =        { A* Search}
+ :                              '
+I'm skipping whatever remains of this entry
 -- plain-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
-You've used 2 entries,
+You've used 3 entries,
             2546 wiz_defined-function locations,
-            635 strings with 5523 characters,
-and the built_in function-call counts, 641 in all, are:
-= -- 55
-> -- 14
+            644 strings with 5613 characters,
+and the built_in function-call counts, 856 in all, are:
+= -- 71
+> -- 21
 < -- 1
-+ -- 7
-- -- 4
-* -- 35
-:= -- 92
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 8
++ -- 10
+- -- 6
+* -- 40
+:= -- 123
+add.period$ -- 8
+call.type$ -- 3
+change.case$ -- 12
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 26
-empty$ -- 58
-format.name$ -- 4
-if$ -- 153
+cite$ -- 3
+duplicate$ -- 33
+empty$ -- 80
+format.name$ -- 6
+if$ -- 205
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 13
-newline$ -- 23
-num.names$ -- 4
-pop$ -- 15
+int.to.str$ -- 3
+missing$ -- 18
+newline$ -- 31
+num.names$ -- 6
+pop$ -- 23
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 9
 quote$ -- 0
-skip$ -- 22
+skip$ -- 32
 stack$ -- 0
-substring$ -- 27
-swap$ -- 8
+substring$ -- 32
+swap$ -- 9
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 8
+type$ -- 12
 warning$ -- 0
-while$ -- 7
-width$ -- 3
-write$ -- 30
-(There was 1 error message)
+while$ -- 9
+width$ -- 4
+write$ -- 40
+(There were 2 error messages)
